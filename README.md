@@ -10,6 +10,5 @@
 ##### Run the following to create a sample flutter project
 `flutter create my_app`
 
-### Screenshot
-![flutterLogin](https://user-images.githubusercontent.com/114565866/226167111-1c1eb652-f6d7-431d-8b7f-ed3bec082dd5.png)
+
 
